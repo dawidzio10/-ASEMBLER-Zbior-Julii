@@ -18,8 +18,6 @@ data1 segment
 	minusjeden			dq -1.0																					;OK
 	jeden				dq 1.0																					;OK
 
-	zr 					dq ?
-	zi 					dq ?
 	dwa					dq 2.0
 	cztery				dq 4.0
 	resx				dw 320
